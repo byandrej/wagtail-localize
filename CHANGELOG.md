@@ -5,7 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.4.1] - 2024-11-14
+
+### Fixed
+
+- Fix case insensitivity issue with some databases when using Translation.import_po (#781)  Nigel2392
+- Fix temporary file permissions in Windows when reading PO files (#781) Nigel2392
 
 ## [1.4] - 2023-01-22
 

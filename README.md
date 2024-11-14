@@ -1,5 +1,9 @@
 # Wagtail localize
 
+## About this Fork
+
+This repository is a fork to maintain compatibility with older versions of Django (3.2 - 4.1) and Wagtail (2.15 - 4.1). No new features will be added in this fork. Only critical security updates and essential bug fixes will be addressed to ensure stability and security for legacy projects.
+
 <!--content-start-->
 
 [![Version](https://img.shields.io/pypi/v/wagtail-localize.svg?style=flat)](https://pypi.python.org/pypi/wagtail-localize/)
